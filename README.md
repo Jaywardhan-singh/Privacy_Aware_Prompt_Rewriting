@@ -25,8 +25,8 @@ This project is a **Privacy Aware Prompt Re-writing for Numerical Data Analysis*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Privacy-Aware-Prompt-Rewriting.git
-   cd Privacy-Aware-Prompt-Rewriting
+   git clone https://github.com/your-repo/Privacy_Aware_Prompt_Rewriting.git
+   cd Privacy_Aware_Prompt_Rewriting
    ```
 
 2. Install the dependencies:
